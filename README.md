@@ -11,3 +11,9 @@ This application demonstrates a simple, reusable Node.js web application based o
 1. Access the running app in a browser at <http://localhost:8081>
 
 [Install Node.js]: https://nodejs.org/en/download/
+
+
+
+HANS.apk is the Android apk for the connected glove built using cordova
+
+haptic_main is the arduino code for 2nd device which uses existing data on map to detect fall,directional cues and obstacle detection
